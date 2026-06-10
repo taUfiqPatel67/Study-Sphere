@@ -6,15 +6,17 @@ StudySphere is an AI-powered learning platform designed to help students organiz
 ## Features
 - User Authentication
 - Google Login
-- AI Quiz Generation
-- Notes Management
-- Subject-wise Content Organization
 - Dashboard Analytics
-- Online Study Resources
+- Notes Management
+- Subject-Bank
+- Doubt Forum
+- Study-AI
+- Group Study
+- Second hand book store
 
 ## Tech Stack
 Frontend: HTML, CSS, JavaScript
-Backend: Node.js, Express.js
+Backend:  Express.js
 Database: Supabase
 Authentication: Supabase Auth
 
@@ -23,11 +25,3 @@ Authentication: Supabase Auth
 2. Install dependencies
 3. Configure environment variables
 4. Run the server
-
-## Screenshots
-(Add screenshots here)
-
-## Team Members
-- Taufiq Patel
-- ...
-- 
