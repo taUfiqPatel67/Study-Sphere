@@ -12,7 +12,7 @@ StudySphere is an AI-powered learning platform designed to help students organiz
 - Doubt Forum
 - Study-AI
 - Group Study
-- Second hand book store
+- Second-hand book store
 
 ## Tech Stack
 Frontend: HTML, CSS, JavaScript
@@ -20,6 +20,7 @@ Backend:  Express.js
 Database: Supabase
 Authentication: Supabase Auth
 
+Link:-https://studysphere-1.vercel.app/
 ## Installation
 1. Clone the repository
 2. Install dependencies
